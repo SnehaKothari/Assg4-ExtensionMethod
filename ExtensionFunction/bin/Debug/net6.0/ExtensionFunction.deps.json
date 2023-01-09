@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExtensionFunction/1.0.0": {
+        "dependencies": {
+          "ExtensionM": "1.0.0"
+        },
+        "runtime": {
+          "ExtensionFunction.dll": {}
+        }
+      },
+      "ExtensionM/1.0.0": {
+        "runtime": {
+          "ExtensionM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExtensionFunction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExtensionM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

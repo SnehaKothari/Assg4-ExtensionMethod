@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\ExtensionMethod\ExtensionM\bin\Debug\net6.0\ExtensionM.deps.json
+C:\Users\Admin\source\repos\ExtensionMethod\ExtensionM\bin\Debug\net6.0\ExtensionM.dll
+C:\Users\Admin\source\repos\ExtensionMethod\ExtensionM\bin\Debug\net6.0\ExtensionM.pdb
+C:\Users\Admin\source\repos\ExtensionMethod\ExtensionM\obj\Debug\net6.0\ExtensionM.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ExtensionMethod\ExtensionM\obj\Debug\net6.0\ExtensionM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ExtensionMethod\ExtensionM\obj\Debug\net6.0\ExtensionM.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ExtensionMethod\ExtensionM\obj\Debug\net6.0\ExtensionM.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ExtensionMethod\ExtensionM\obj\Debug\net6.0\ExtensionM.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExtensionMethod\ExtensionM\obj\Debug\net6.0\ExtensionM.dll
+C:\Users\Admin\source\repos\ExtensionMethod\ExtensionM\obj\Debug\net6.0\refint\ExtensionM.dll
+C:\Users\Admin\source\repos\ExtensionMethod\ExtensionM\obj\Debug\net6.0\ExtensionM.pdb
+C:\Users\Admin\source\repos\ExtensionMethod\ExtensionM\obj\Debug\net6.0\ref\ExtensionM.dll
